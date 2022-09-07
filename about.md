@@ -2,6 +2,4 @@
 title: About
 ---
 
-Gravida cum sociis natoque penatibus et magnis. Tempus egestas sed sed risus pretium. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra orci. Donec enim diam vulputate ut pharetra sit. Odio ut sem nulla pharetra. Libero enim sed faucibus turpis in eu.
-
-A erat nam at lectus urna duis. Facilisis leo vel fringilla est. Ut tortor pretium viverra suspendisse potenti nullam ac. Eget magna fermentum iaculis eu non. Aliquam vestibulum morbi blandit cursus risus at ultrices mi.
+Hi! I'm [Kat](https://katmh.com), a senior studying 6-3. When I was 11, I embarked on a three-year-long journey to self-study Modern Greek. The results are not very impressive, but I can read the alphabet and the signs inside Souvla (it's like Saloniki but in San Francisco and more palatable to my non-Mediterranean tastes). I learned how to ride a bike as a junior in college (shout out to Bluebikes and the Westgate parking lot). My [most popular tweet](https://twitter.com/katmhuang/status/1353040170384314368) has 113.1k likes. I enjoy the auto-layout feature in Figma, and I've never had chewing gum before.
