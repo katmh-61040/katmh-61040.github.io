@@ -1,15 +1,25 @@
-# Point Theme
+# kat takes 6.1040
 
-Point is a [Jekyll](https://jekyllrb.com/) theme for personal websites that are simple and to the point.
+this is my portfolio for mit's [6.1040 (formerly 6.170) software studio](https://61040-fa22.github.io/), fall 2022.
 
-Preview: [point-theme.netlify.app](https://point-theme.netlify.app/)
+the site uses a jekyll theme which i made several years ago: "[Point Theme](https://github.com/katmh/point-theme)... a Jekyll theme for personal websites that are simple and to the point."
 
-The theme is fully responsive, so it looks good and works on devices of all sizes. All pages are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for ease of editing and writing.
+unfortunately i have not published that theme as a fancy 💎 ruby gem 💎 or anything, so i "installed" the theme by forking my theme repo 💀
 
-To use Point, fork this repo and make your own changes. Be sure to customize the `_config.yml` file, and you can also change colors and fonts in `styles/styles.scss`. Have fun!
+## releases
 
-This theme uses the [MIT license](https://choosealicense.com/licenses/mit/).
+i sort of plan to use releases (a github feature that builds on the tags feature of git) to mark states of my repo associated with assignment submissions for ease of reference and organization
 
-To report a bug or request a feature, please [create an issue](https://github.com/katavie/point-theme/issues).
+## how to run this website locally if you want to do that for some reason
 
-![preview](preview.png)
+```
+git clone https://github.com/katmh-61040/katmh-61040.github.io
+
+cd katmh-61040/katmh-61040.github.io
+
+bundle install
+
+bundle exec jekyll serve
+```
+
+it will materialize on [localhost:4000](localhost:4000) ✨
