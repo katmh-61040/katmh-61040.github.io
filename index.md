@@ -5,9 +5,9 @@
 
 this is my portfolio for [6.1040 (formerly 6.170) software studio, fall 2022](https://61040-fa22.github.io/)
 
-![under construction](http://textfiles.com/underconstruction/FaFashionAvenueStage8740underconstruction.gif)
+![under construction](/assets/under_construction_1.gif)
 
-![these pages are always under construction](http://textfiles.com/underconstruction/RaRainForestCanopy8717construction.gif)
+![these pages are always under construction](/assets/under_construction_2.gif)
 (except after i've submitted an assignment)
 
 page views!
