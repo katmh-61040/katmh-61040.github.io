@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Assignments
 ---
 
 {% for post in site.posts %}
